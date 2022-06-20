@@ -1,7 +1,7 @@
 {
-  "name": "@crocoswap/sdk",
+  "name": "@crocobit/sdk",
   "license": "MIT",
-  "version": "2.4.3",
+  "version": "2.4.8",
   "description": "🛠 An SDK for building applications on top of Crocoswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
